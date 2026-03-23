@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="128px" height="159px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="Clip61">
+      <path d="M 0 149  L 0 0  L 118 0  L 118 149  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 5 0 )">
+    <path d="M 0 0  L 118 0  L 118 149  L 0 149  L 0 0  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" mask="url(#Clip61)" />
+    <path d="M 8 8  L 110 8  L 110 141  L 8 141  L 8 8  " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" class="fill" mask="url(#Clip61)" />
+    <path d="M 70.21000000000001 40.05  C 65.254 40.05  61.36 36.156  61.36 31.199999999999996  C 61.36 26.243999999999996  65.254 22.349999999999998  70.21000000000001 22.349999999999998  C 75.16600000000001 22.349999999999998  79.06 26.243999999999996  79.06 31.199999999999996  C 79.06 36.156  75.16600000000001 40.05  70.21000000000001 40.05  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" mask="url(#Clip61)" />
+    <path d="M 11 138  L 11 68.14999999999999  L 35 36.39999999999999  L 68.6 61.8  L 87.80000000000001 55.45  L 107 61.8  L 107 138  L 11 138  " fill-rule="nonzero" fill="rgba(22, 155, 213, 1)" stroke="none" class="fill" mask="url(#Clip61)" />
+  </g>
+  <style>svg { filter: drop-shadow(0px 5px 2.5px rgba(0, 0, 0, 0.34901960784313724)); }</style>
+</svg>
